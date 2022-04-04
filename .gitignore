@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+*.md
+*.sav
+*.npy
+ECG_data
+data.txt
+
